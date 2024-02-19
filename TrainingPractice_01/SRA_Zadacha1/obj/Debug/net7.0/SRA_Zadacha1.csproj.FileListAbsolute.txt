@@ -1,0 +1,15 @@
+D:\колледж\3 курс\УП.01\TrainingPractice\TrainingPractice_01\SRA_Zadacha1\bin\Debug\net7.0\SRA_Zadacha1.exe
+D:\колледж\3 курс\УП.01\TrainingPractice\TrainingPractice_01\SRA_Zadacha1\bin\Debug\net7.0\SRA_Zadacha1.deps.json
+D:\колледж\3 курс\УП.01\TrainingPractice\TrainingPractice_01\SRA_Zadacha1\bin\Debug\net7.0\SRA_Zadacha1.runtimeconfig.json
+D:\колледж\3 курс\УП.01\TrainingPractice\TrainingPractice_01\SRA_Zadacha1\bin\Debug\net7.0\SRA_Zadacha1.dll
+D:\колледж\3 курс\УП.01\TrainingPractice\TrainingPractice_01\SRA_Zadacha1\bin\Debug\net7.0\SRA_Zadacha1.pdb
+D:\колледж\3 курс\УП.01\TrainingPractice\TrainingPractice_01\SRA_Zadacha1\obj\Debug\net7.0\SRA_Zadacha1.GeneratedMSBuildEditorConfig.editorconfig
+D:\колледж\3 курс\УП.01\TrainingPractice\TrainingPractice_01\SRA_Zadacha1\obj\Debug\net7.0\SRA_Zadacha1.AssemblyInfoInputs.cache
+D:\колледж\3 курс\УП.01\TrainingPractice\TrainingPractice_01\SRA_Zadacha1\obj\Debug\net7.0\SRA_Zadacha1.AssemblyInfo.cs
+D:\колледж\3 курс\УП.01\TrainingPractice\TrainingPractice_01\SRA_Zadacha1\obj\Debug\net7.0\SRA_Zadacha1.csproj.CoreCompileInputs.cache
+D:\колледж\3 курс\УП.01\TrainingPractice\TrainingPractice_01\SRA_Zadacha1\obj\Debug\net7.0\SRA_Zadacha1.sourcelink.json
+D:\колледж\3 курс\УП.01\TrainingPractice\TrainingPractice_01\SRA_Zadacha1\obj\Debug\net7.0\SRA_Zadacha1.dll
+D:\колледж\3 курс\УП.01\TrainingPractice\TrainingPractice_01\SRA_Zadacha1\obj\Debug\net7.0\refint\SRA_Zadacha1.dll
+D:\колледж\3 курс\УП.01\TrainingPractice\TrainingPractice_01\SRA_Zadacha1\obj\Debug\net7.0\SRA_Zadacha1.pdb
+D:\колледж\3 курс\УП.01\TrainingPractice\TrainingPractice_01\SRA_Zadacha1\obj\Debug\net7.0\SRA_Zadacha1.genruntimeconfig.cache
+D:\колледж\3 курс\УП.01\TrainingPractice\TrainingPractice_01\SRA_Zadacha1\obj\Debug\net7.0\ref\SRA_Zadacha1.dll
