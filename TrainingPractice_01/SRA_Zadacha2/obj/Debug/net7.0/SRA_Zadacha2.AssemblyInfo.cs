@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SRA_Zadacha2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b90c18c59bef646e5997def1e6a39ab4fbf4799e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SRA_Zadacha2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SRA_Zadacha2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
