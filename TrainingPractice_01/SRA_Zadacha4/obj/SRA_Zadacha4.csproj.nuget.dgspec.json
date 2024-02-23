@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\колледж\\3 курс\\УП.01\\TrainingPractice\\TrainingPractice_01\\SRA_Zadacha4\\SRA_Zadacha4.csproj": {}
+  },
+  "projects": {
+    "D:\\колледж\\3 курс\\УП.01\\TrainingPractice\\TrainingPractice_01\\SRA_Zadacha4\\SRA_Zadacha4.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\колледж\\3 курс\\УП.01\\TrainingPractice\\TrainingPractice_01\\SRA_Zadacha4\\SRA_Zadacha4.csproj",
+        "projectName": "SRA_Zadacha4",
+        "projectPath": "D:\\колледж\\3 курс\\УП.01\\TrainingPractice\\TrainingPractice_01\\SRA_Zadacha4\\SRA_Zadacha4.csproj",
+        "packagesPath": "C:\\Users\\romst\\.nuget\\packages\\",
+        "outputPath": "D:\\колледж\\3 курс\\УП.01\\TrainingPractice\\TrainingPractice_01\\SRA_Zadacha4\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\romst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

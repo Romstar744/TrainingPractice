@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TrainingPractice_01
+namespace EX_2
 {
 	// Основной класс программы
 	internal class Program

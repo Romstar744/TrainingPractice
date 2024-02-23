@@ -4,19 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TrainingPractice_01
+namespace EX_1
 {
 	// Основной класс программы
 	internal class Program
 	{
-		// Функция для основных расчетов программы
+		// Метод для основных расчетов программы
 		static void Main(string[] args)
 		{
 			bool validInput = false;
 
 			do
 			{
-				// проверка на корректность координат; может ли ладья бить фигуру 
 				try
 				{
 					Console.WriteLine("Введите координаты ладьи x1 y1 и координаты фигуры x2 y2:");
