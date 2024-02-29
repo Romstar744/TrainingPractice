@@ -1,0 +1,10 @@
+D:\колледж\3 курс\УП.01\TrainingPractice\TrainingPractice_01\SRA_Zadacha13\obj\Debug\SRA_Zadacha13.csproj.AssemblyReference.cache
+D:\колледж\3 курс\УП.01\TrainingPractice\TrainingPractice_01\SRA_Zadacha13\obj\Debug\SRA_Zadacha13.Form1.resources
+D:\колледж\3 курс\УП.01\TrainingPractice\TrainingPractice_01\SRA_Zadacha13\obj\Debug\SRA_Zadacha13.Properties.Resources.resources
+D:\колледж\3 курс\УП.01\TrainingPractice\TrainingPractice_01\SRA_Zadacha13\obj\Debug\SRA_Zadacha13.csproj.GenerateResource.cache
+D:\колледж\3 курс\УП.01\TrainingPractice\TrainingPractice_01\SRA_Zadacha13\obj\Debug\SRA_Zadacha13.csproj.CoreCompileInputs.cache
+D:\колледж\3 курс\УП.01\TrainingPractice\TrainingPractice_01\SRA_Zadacha13\bin\Debug\SRA_Zadacha13.exe.config
+D:\колледж\3 курс\УП.01\TrainingPractice\TrainingPractice_01\SRA_Zadacha13\bin\Debug\SRA_Zadacha13.exe
+D:\колледж\3 курс\УП.01\TrainingPractice\TrainingPractice_01\SRA_Zadacha13\bin\Debug\SRA_Zadacha13.pdb
+D:\колледж\3 курс\УП.01\TrainingPractice\TrainingPractice_01\SRA_Zadacha13\obj\Debug\SRA_Zadacha13.exe
+D:\колледж\3 курс\УП.01\TrainingPractice\TrainingPractice_01\SRA_Zadacha13\obj\Debug\SRA_Zadacha13.pdb
